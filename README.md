@@ -14,8 +14,9 @@ Hopefully you find our app useful as well as enjoyable.
 - Classrooms that can teacher create to track students performance.
 - Listening, Reading, Speaking, and Writing Tests in each lesson.
 - Parents can track their students performance.
+- Downloadable Content; not all content are available you can download and remove any content do you want to save your mobile storage.
 
-Download from [ Google Play Store🔗](https://play.google.com/store/apps/details?id=com.learningrockets.bee_degree_second_term)
-Download from [ App Store 🔗](https://apps.apple.com/us/app/bee-degree-connect-plus/id1669908323)
+Download from [Google Play Store🔗](https://play.google.com/store/apps/details?id=com.learningrockets.bee_degree_second_term)
+Download from [App Store 🔗](https://apps.apple.com/us/app/bee-degree-connect-plus/id1669908323)
 
 All terms reserved ©️ [Learning Rockets](https://web.facebook.com/BeeDegree2).
